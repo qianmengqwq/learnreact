@@ -1,0 +1,12 @@
+.empty{
+    width: 10px;
+    height: 10px;
+    background-color: aqua;
+}
+
+.father{
+    width: 200px;
+    height: 100px;
+    background-color: azure;
+    border: 1px solid black;
+}
